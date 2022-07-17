@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="C:/Users/dogan/OneDrive/Masaüstü/SE375-demirel-doğan_projectPKI/extLibraries/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dogan/OneDrive/Masaüstü/SE375-demirel-doğan_projectPKI/extLibraries/mysql-connector-java-8.0.13.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
